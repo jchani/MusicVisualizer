@@ -1,12 +1,12 @@
 Music Visualizer
 ======================
 
-A Music visualizer built with the HTML5 Audio API and the SoundCloud API
+A music visualizer built with the HTML5 Audio API and the SoundCloud API
 
 Screenshot
 ---
 
-![alt tag](https://raw.github.com/jchani/MusicVisualizer/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/jchani/MusicVisualizer/master/screenshot.PNG)
 
 
 Sources
